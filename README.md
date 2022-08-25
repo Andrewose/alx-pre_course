@@ -1,1 +1,2 @@
-my first readme
+working on some cool projects 
+
